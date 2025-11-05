@@ -2,7 +2,7 @@
 
 # Problem Scenario
 
-Create an interactive storytelling adventure using ChatGPT, where you can create unique and engaging narratives without requiring any coding or additional platforms.
+Created an interactive storytelling adventure using GROQ, where I can create unique and engaging narratives without requiring any coding or additional platforms.
 
 # Objective
 
