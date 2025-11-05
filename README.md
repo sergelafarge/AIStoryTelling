@@ -6,17 +6,17 @@ Created an interactive storytelling adventure using GROQ, where I can create uni
 
 # Objective
 
-Unleash your creativity and storytelling abilities by using ChatGPT as a tool to collaboratively build an interactive story.
+Unleashed creativity and storytelling abilities by using GROQ as a tool to collaboratively build an interactive story.
 
 # Steps Performed
 
 1. Define the story theme:
 
-    a. Choose a theme or genre for the storytelling adventure, such as fantasy, science fiction, mystery, or adventure
+    a. Chose a theme or genre for the storytelling adventure, such as fantasy, science fiction, mystery, or adventure
 
 2. Introduce the main characters:
 
-    a. Create character descriptions, including their names, personalities, and backgrounds
+    a. Created character descriptions, including their names, personalities, and backgrounds
 
 3. Begin the story:
 
@@ -24,28 +24,28 @@ Unleash your creativity and storytelling abilities by using ChatGPT as a tool to
 
 4. Participant input:
 
-    a. Pose questions or describe the actions of their chosen characters
+    a. Pose questions/described the actions of their chosen characters
 
 5. AI-generated responses:
 
-    a. Utilize ChatGPT to provide narrative responses based on your inputs
+    a. Utilized GROQ to provide narrative responses based on your inputs
 
-    b. Expand the story and advance the plot based on your ideas
+    b. Expanded the story and advanced the plot
 
 6. Decision-making and branching paths:
 
-    a. Prompt to make decisions or pose choices within the story
+    a. Prompted to make decisions or posed choices within the story
 
-    b. Use ChatGPT's responses to guide your next steps, leading to different story paths and outcomes
+    b. Used GROQ's responses to guide my next steps, leading to different story paths and outcomes
 
 7. Iteration and refinement:
 
-    a. Refine your inputs for clarity and consistency
+    a. Refined my inputs for clarity and consistency
 
 8. Conclusion:
 
-    a. Guide towards a satisfying conclusion as the story progresses
+    a. Guided towards a satisfying conclusion as the story progresses
 
-    b. Determine if the adventure will reach an endpoint or be left open-ended for future continuation
+    b. Determined if the adventure will reach an endpoint or be left open-ended for future continuation
 
-9. Showcase and share the story
+9. Showcased and shared the story
