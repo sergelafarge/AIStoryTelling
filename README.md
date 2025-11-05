@@ -1,4 +1,4 @@
-# Story Telling with Artificial Intelligence
+# Story Telling with Artificial Intelligence (GROQ)
 
 # Problem Scenario
 
