@@ -49,3 +49,14 @@ Unleashed creativity and storytelling abilities by using GROQ as a tool to colla
     b. Determined if the adventure will reach an endpoint or be left open-ended for future continuation
 
 9. Showcased and shared the story
+
+# Result
+
+<img width="666" height="1073" alt="image" src="https://github.com/user-attachments/assets/6932913b-cafb-4e83-8054-28246bfa23d1" />
+
+<img width="659" height="564" alt="image" src="https://github.com/user-attachments/assets/82300dca-d528-4133-91a6-c3f6dde8ed65" />
+
+<img width="666" height="1059" alt="image" src="https://github.com/user-attachments/assets/88149812-5d13-4034-834b-c6347a2bc9c7" />
+
+
+
